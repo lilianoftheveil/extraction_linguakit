@@ -2,9 +2,9 @@
 
 ### Instalando o Linguakit
 
-escolher uma pasta onde o linguakit possa ficar (Exemplo: `Documents`)
+- escolha um diretório para instalar o pacote do Linguakit (exemplo: `Documents`) executando o seguinte comando no terminal
 
-- git clone  https://github.com/JJoao/Linguakit Documents
+- git clone https://github.com/JJoao/Linguakit Documents
    
 #### também é possível instalar o linguakit via github-desktop
 
